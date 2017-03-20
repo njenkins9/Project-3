@@ -97,10 +97,10 @@ textarea {
      background-size: 800px;
      position: absolute;
      top: 50px;
-     /*right: 30px;
-     bottom: 10px;*/
+     right: 30px;
+     /*bottom: 10px;*/
      left: 30px;
-     padding: 30px;
+     /*padding: 30px;*/
      color: white;
      display: none;
    }
