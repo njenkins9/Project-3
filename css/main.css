@@ -94,6 +94,7 @@ textarea {
 
 
    .content-box {
+     background-size: cover;
      position: absolute;
      top: 50px;
      right: 30px;
@@ -104,6 +105,22 @@ textarea {
      overflow: scroll;
      display: none;
    }
+
+   .content-northamerica {
+      background-image: url(../img/moose-01.jpg);
+   }
+
+   .content-asia {
+      background-image: url(../img/komodo-01.jpg);
+    }
+
+  .content-africa {
+      background-image: url(../img/lion-01.jpg);
+    }
+
+  .content-auss {
+      background-image: url(../img/kangaroo-01.jpg);
+    }
 
    .btn-close {
      position: absolute;
