@@ -95,7 +95,7 @@ textarea {
 
    .content-box {
      background-size: cover;
-     position: relative;
+     position: absolute;
      top: 50px;
      right: 30px;
      bottom: 10px;
@@ -105,13 +105,12 @@ textarea {
      display: none;
    }
 
-   .content-box img {
-     position: absolute;
-     
-   }
-
    .content-northamerica {
       background-image: url(../img/moose-01.jpg);
+   }
+
+   .content-box .nAmerica {
+     position: relative;
    }
 
    .content-asia {
