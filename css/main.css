@@ -97,7 +97,7 @@ textarea {
      background-size: 800px;
      position: absolute;
      top: 50px;
-     right: 30px;
+     /*right: 30px;*/
      /*bottom: 10px;*/
      left: 30px;
      /*padding: 30px;*/
@@ -107,8 +107,9 @@ textarea {
 
    .content-northamerica {
       background-image: url(../img/moose-01.jpg);
-   }
 
+   }
+/*
    .content-box .nAmerica {
      position: relative;
    }
@@ -124,7 +125,7 @@ textarea {
   .content-auss {
       background-image: url(../img/kangaroo-01.jpg);
     }
-
+*/
    .btn-close {
      position: absolute;
      top: 5px;
